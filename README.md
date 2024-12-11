@@ -13,7 +13,7 @@
 - **npm**: Ensure you have npm installed.
 
 ## register/login 
-- go to here [https://unich.com/en/airdrop](https://unich.com/en/airdrop/sign-up?ref=RV6FNS) to register or login
+- go to here [https://unich.com/en/airdrop](https://unich.com/en/airdrop/sign-up?ref=LE1FWH) to register or login
 - F12 to inspect after you login to get token 
 - copy your token and paste to `tokens.txt`
 ![get-token](image-1.png)
@@ -22,7 +22,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Zlkcyber/unichbot.git
+   git clone https://github.com/amumuku/unichbot.git
    cd unichbot
    ```
 2. Install dependencies:
